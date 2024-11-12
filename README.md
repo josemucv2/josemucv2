@@ -2,7 +2,7 @@
 I am a Fullstack developer passionate about technology and innovation, with experience in various tools and technologies such as JavaScript, Python, Typescript, React, Vue, React Native, HTML, CSS, TailwindCSS, Bootstrap, Git, GitHub, SQLAlchemy, MongoDB, Node .js, Express.js and Figma. I have worked on challenging, large-scale projects, and I am always looking for learning and growth. I am proud to be part of the developer community and share my knowledge and skills.
 
 
-## 🌐 =Social Media:
+## 🌐 Social Media:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100010477038913) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soy_jm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josemartinez-developer/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@josemucv) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@josemucv) 
 
 # 💻 Knowledge:
